@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hash1Arnav
-- 👀 I’m interested in all sorts of UI/UX, Web development, Data Handling
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in all sorts of UI/UX, Web development, Data Handling, AI, ML, and Data Analysis
+- 🌱 Languages using: Python, Java, HTML
+- 🌱 I’m currently learning C++, PHP, Javascript
 - 📫 How to reach me whatsapp: +918095993388 or mail: arnavjha2005@gmail.com
 
 <!---
