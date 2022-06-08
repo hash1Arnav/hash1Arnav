@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hash1Arnav
+- 👋 Hi, I’m Arnav Jha
 - 👀 I’m interested in all sorts of UI/UX, Web development, Data Handling, AI, ML, and Data Analysis
 - 🌱 Languages using: Python, Java, HTML
 - 🌱 I’m currently learning C++, PHP, Javascript
