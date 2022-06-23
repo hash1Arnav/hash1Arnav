@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arnav Jha
 - 👀 I’m interested in all sorts of UI/UX, Web development, Data Handling, AI, ML, and Data Analysis
-- 🌱 Languages using: Python, Java, HTML
+- 🌱 Languages using: Python, Java, HTML, CSS, Javascript
 - 🌱 I’m currently learning C++, PHP, Javascript
 - 📫 How to reach me whatsapp: +918095993388 or mail: arnavjha2005@gmail.com
 
